@@ -13,7 +13,7 @@ const client = new Client({
   restTimeOffset: 0
 });
 
-client.login(TOKEN);
+client.login(ODE4NTQ0ODcyMDM0MTQwMTkw.YEZnUQ.QIat89ykyUdBTifNOdQvhUrS15o);
 client.commands = new Collection();
 client.prefix = PREFIX;
 client.queue = new Map();
